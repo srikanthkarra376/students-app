@@ -1,0 +1,16 @@
+#addUser,#editUser {
+  padding:25px;
+  margin: auto 30%;
+}
+table tr:nth-child(even) {
+  background-color:#fff;
+}
+table tr:nth-child(odd) {
+  background-color: #add4f652;
+}
+
+#navbarNavAltMarkup a:hover {
+  background-color: rgba(204, 204, 204, 0.849);
+  color:#262626;
+  transition: 0.5s;
+}
