@@ -1,4 +1,5 @@
 <?php
+//add all the database credentials 
 
 $servername = "localhost";
 $dbname = "contacts";
